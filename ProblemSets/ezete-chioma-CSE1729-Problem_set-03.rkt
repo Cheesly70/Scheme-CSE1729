@@ -13,8 +13,9 @@
 "Euler's Constant with n=50"
 (abs (- (h-sub-n 50) (log 50)))
 
-"Euler's Constant with n=500"
+"Euler's Constant with n=5000"
 (abs (- (h-sub-n 5000) (log 5000)))
+
 
 (newline)
 "Problem 2"
